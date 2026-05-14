@@ -1,6 +1,7 @@
 {
   "projects": {
-    "test-o": "oauth-fb26c"
+    "test-o": "oauth-fb26c",
+    "test": "oauth-fb26c"
   },
   "targets": {},
   "etags": {}
